@@ -99,7 +99,7 @@
 				TargetAttributes = {
 					BFB66C121D8D2F4500411430 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = W5XRDF4YTY;
+						DevelopmentTeam = PSLRJ6EG6T;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -263,12 +263,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = W5XRDF4YTY;
+				DEVELOPMENT_TEAM = PSLRJ6EG6T;
 				INFOPLIST_FILE = "Drawing App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.examplecompany.Drawing-App";
+				PRODUCT_BUNDLE_IDENTIFIER = "ymalinovsky.Drawing-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -276,12 +276,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = W5XRDF4YTY;
+				DEVELOPMENT_TEAM = PSLRJ6EG6T;
 				INFOPLIST_FILE = "Drawing App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.examplecompany.Drawing-App";
+				PRODUCT_BUNDLE_IDENTIFIER = "ymalinovsky.Drawing-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
